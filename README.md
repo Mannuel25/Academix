@@ -12,3 +12,7 @@ Academix is an educational management system built in C# that caters to the need
 
 - **Programming Language**: C#
 - **Database**: MySQL
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
